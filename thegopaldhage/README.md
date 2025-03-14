@@ -1,16 +1,33 @@
-# thegopaldhage
+<h1 align="center">👋 Hi, I'm Gopal Dhage</h1>
 
-A new Flutter project.
+<p align="center">
+  <strong>Java Developer | Flutter Developer | Spring Boot Expert</strong>
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+<h2>🧑‍💻 About Me</h2>
+<p>
+I'm an enthusiastic developer with a strong background in Java and Flutter. I have experience building web and mobile applications using Spring Boot, Firebase, and Google Cloud. Passionate about learning and exploring new technologies.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/thegopaldhage/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/gopalthedev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/thegopaldhage/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/thegopaldhage" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:dhagegopal305@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
